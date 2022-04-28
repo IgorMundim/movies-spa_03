@@ -11,3 +11,5 @@
  **Importante.: Os conteúdos apresentados foram apenas para análise do React e seus recursos afim de estudo.**
  
  [Veja também a continuação do exercício ultilizando o **React Redux**](https://github.com/IgorMundim/movies-spa_04.git)
+ 
+ [Veja também outros exercícios sugeridos **SSR - REACT/NEXT**](https://github.com/IgorMundim/react-next_movies-ssr.git)
