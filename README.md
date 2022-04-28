@@ -1,2 +1,11 @@
-# movies-spa_03
-Neste exercício foi criado uma SPA com conteúdos básicos
+# Pontifícia Universidade Católica de Minas Gerais
+
+ **Curso:** Desenvolvimento web Full Stack
+ 
+ **Disciplina:** Frameworks front end React
+ 
+ **Professor:** Samuel Martins
+ 
+ **Exercício 03:**  Neste exercício foi sugerido pelo professor a criação de um SPA atraves do Rect ultilizando o The Movies Database, uma API gratuita para consulta de filmes e séries!
+
+
