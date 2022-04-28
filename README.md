@@ -13,6 +13,3 @@
  ### SPA - React/React-Redux
  
  [Veja também a continuação do exercício ultilizando o React Redux](https://github.com/IgorMundim/movies-spa_04.git)
- 
-
-
