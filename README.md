@@ -10,6 +10,6 @@
  
  [Veja também a continuação do exercício ultilizando o React Redux](https://github.com/IgorMundim/movies-spa_04.git)
  
- ## Importante.: Os conteúdos apresentados foram apenas para análise do React e seus recursos afim de estudo.
+ ### Importante.: Os conteúdos apresentados foram apenas para análise do React e seus recursos afim de estudo.
 
 
